@@ -1,4 +1,4 @@
-# Eigen_Portfolio 
+## Eigen_Portfolio 
 Developed portfolio from data of 30 US stocks fetched from 3rd party API.
 Applied PCA on splitted data to capture major variance(risk) of collection of stocks.
 Did EDA of stocks data, each component of PCA and it's associated variance.
