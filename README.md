@@ -6,3 +6,7 @@ Normalised top 5 component selected through EDA and judged each model based on t
 Calcualated Annualized Sharpe, volatility and returns & captured each stocks weightage in the same.
 Models were than backtested on the testing data and 2 models were finalised based on highest sharpe and returns respectively.
 
+# Future Improvements:
+Use more advanced metric like Sortino Ratio to handle only negative return volatility.
+Use S&P500 data as benchmark index for comapring model performance with market.
+
